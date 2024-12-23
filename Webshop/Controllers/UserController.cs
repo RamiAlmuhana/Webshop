@@ -59,8 +59,7 @@ namespace Webshop.Controllers
             }
 
             dbUser.email = updateUser.email;
-            dbUser.firstName = updateUser.firstName;
-            dbUser.lastName = updateUser.lastName;
+            dbUser.password = updateUser.password;
 
             await _context.SaveChangesAsync();
 
