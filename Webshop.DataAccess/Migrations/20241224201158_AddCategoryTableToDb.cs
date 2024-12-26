@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace Webshop_front_end.Migrations
+namespace Webshop.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDb : Migration

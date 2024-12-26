@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Webshop_front_end.Models;
+using Webshop.Models;
 
 namespace Webshop_front_end.Controllers
 {
